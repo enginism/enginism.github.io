@@ -24,6 +24,8 @@ github_username: enginism
 minimal_mistakes_skin: default
 search: true
 # logo: "/assets/images/enginism.png"
+words_per_minute: 100
+
 
 analytics:
   provider: "google-gtag"
@@ -120,3 +122,21 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# Comments
+comments:
+  provider: "giscus"
+  giscus:
+    repo             : "enginism/enginism.github.io"
+    repo_id          : "R_kgDOQ0qfEg"
+    category_name    : "General"
+    category_id      : "DIC_kwDOQ0qfEs4C063j"
+    discussion_term  : "pathname"
+    reactions_enabled: "1"
+    theme            : "light"
+    strict           : "0"
+    input_position   : "bottom"
+    emit_metadata    : "0"
+    lang             : "en"
+    lazy             : true
