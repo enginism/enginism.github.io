@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "JB Won"
   avatar : "/assets/images/enginism.png"
-  bio    : "SNU Undergrad&nbsp;&nbsp;&#124;&nbsp;&nbsp;Pursuing AR"
+  bio    : "SNU Undergrad · Pursuing AR"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
