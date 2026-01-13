@@ -22,7 +22,7 @@ twitter_username: enginism
 github_username: enginism
 minimal_mistakes_skin: default
 search: true
-logo: "/assets/images/enginism.png"
+# logo: "/assets/images/enginism.png"
 
 # Build settings
 markdown: kramdown
