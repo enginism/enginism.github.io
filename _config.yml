@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Enginism
-subtitle: by JB Won
+# subtitle: by JB Won
 url: "https://enginism.com"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -72,18 +72,15 @@ author:
   avatar : "/assets/images/enginism.png"
   bio    : "SNU Undergrad · Pursuing AR"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Seoul, KR"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "#"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/enginism"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jim8697@snu.ac.kr"
 
 footer:
   links:
@@ -105,7 +102,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      show_date: true
       comments: true
       share: true
       related: true
