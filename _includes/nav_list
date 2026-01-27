@@ -1,0 +1,40 @@
+<nav class="nav__list">
+  <ul class="nav__items">
+    <!-- ALL POSTS -->
+    <li>
+      <a href="/posts/" class="nav__link">ALL POSTS ({{ site.posts.size }})</a>
+    </li>
+
+    <!-- [ ENG ] : Engineering -->
+    <li>
+      <span class="nav__section-title">[ ENG ] : Engineering</span>
+      <ul>
+        <li>
+          <a href="/categories/paper-review/" class="nav__link">Paper Review ({{ site.categories['Paper Review'].size | default: 0 }})</a>
+          <ul class="nav__sub-items">
+            <li><a href="/categories/computer-vision/">Computer Vision ({{ site.categories['Computer Vision'].size | default: 0 }})</a></li>
+            <li><a href="/categories/ml-dl/">ML / DL ({{ site.categories['ML-DL'].size | default: 0 }})</a></li>
+            <li><a href="/categories/ar/">AR ({{ site.categories['AR'].size | default: 0 }})</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+
+    <!-- [ IN ] : Learning Note -->
+    <li>
+      <span class="nav__section-title">[ IN ] : Learning Note</span>
+      <ul>
+        <li><a href="/categories/learning-note/">Learning Note ({{ site.categories['Learning Note'].size | default: 0 }})</a></li>
+        <li><a href="/categories/project/">Project ({{ site.categories['Project'].size | default: 0 }})</a></li>
+      </ul>
+    </li>
+
+    <!-- [ ISM ] : Life Reflection -->
+    <li>
+      <span class="nav__section-title">[ ISM ] : Life Reflection</span>
+      <ul>
+        <li><a href="/categories/short-essay/">Short Essay ({{ site.categories['Short Essay'].size | default: 0 }})</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>

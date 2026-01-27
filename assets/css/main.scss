@@ -141,3 +141,68 @@ blockquote {
     margin-top: -0.7em;
   }
 }
+
+// Author links spacing
+.author__urls li {
+  margin-top: 1em;
+  margin-bottom: -1em;
+}
+
+// Category navigation styling
+.nav__list {
+  margin-top: 1.5em;
+  padding-top: 1em;
+  border-top: 1px solid #e0e0e0;
+
+  ul, li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav__items > li {
+    margin-bottom: 0.8em;
+  }
+
+  .nav__section-title {
+    display: block;
+    font-size: 0.8rem !important;
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 0.3em;
+  }
+
+  a {
+    color: #333;
+    font-size: 0.8rem !important;
+    text-decoration: none;
+
+    &:hover {
+      color: $quote-blue-color;
+    }
+  }
+
+  // Second level
+  .nav__items > li > ul > li {
+    margin-left: 0.5em;
+    margin-bottom: 0.2em;
+
+    a {
+      font-size: 0.8rem !important;
+    }
+  }
+
+  // Third level (Computer Vision, ML/DL, AR)
+  .nav__sub-items {
+    margin-left: 1em;
+    margin-top: 0.2em;
+
+    li {
+      margin-bottom: 0.1em;
+    }
+
+    a {
+      font-size: 0.8rem !important;
+    }
+  }
+}
