@@ -1,0 +1,23 @@
+.logo {
+    position: fixed;
+    top: 0;
+    left: calc(50% - var(--nav-width) / 2 - var(--gap) / 2);
+    z-index: 999;
+    line-height: var(--header-height);
+}
+
+.first-entry {
+    min-height: auto;
+    margin: var(--gap) 0;
+}
+
+#menu {
+    margin-left: auto;
+}
+
+.logo-separator {
+    color: var(--primary);
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 4px;
+}

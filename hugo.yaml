@@ -32,7 +32,7 @@ params:
   comments: false
 
   homeInfoParams:
-    Title: "Hi, I'm JB Won"
+    Title: "👋 Hi, this is Jongbum Won"
     Content: "CS @ SNU | 3D Vision & Motion Generation"
 
   socialIcons:
@@ -55,13 +55,13 @@ menu:
       name: Posts
       url: /posts/
       weight: 10
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
     - identifier: search
       name: Search
       url: /search/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
     - identifier: about
       name: About
