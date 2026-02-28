@@ -21,6 +21,7 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
 
+  mainSections: ["posts", "review"]
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -33,11 +34,15 @@ params:
 
   homeInfoParams:
     Title: "👋 Hi, this is Jongbum Won"
-    Content: "CS @ SNU | 3D Vision & Motion Generation"
+    Content: "CS @ SNU | 3D Vision & Motion GenerationCS @ SNU | 3D Vision & Motion GenerationCS @ SNU | 3D Vision & Motion GenerationCS @ SNU | 3D Vision & Motion Generation"
 
   socialIcons:
+    - name: x
+      url: "https://x.com/jbwon_"
     - name: github
       url: "https://github.com/enginism"
+    - name: email
+      url: "mailto:jim8697@snu.ac.kr"
 
   fuseOpts:
     isCaseSensitive: false
@@ -51,17 +56,25 @@ params:
 
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 5
     - identifier: posts
       name: Posts
       url: /posts/
       weight: 10
+    - identifier: review
+      name: Review
+      url: /review/
+      weight: 15
+    - identifier: subscribe
+      name: Subscribe
+      url: /subscribe/
+      weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
       weight: 30
     - identifier: about
       name: About

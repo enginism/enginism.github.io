@@ -1,18 +1,22 @@
 .logo {
     position: fixed;
     top: 0;
-    left: calc(50% - var(--nav-width) / 2 - var(--gap) / 2);
+    left: calc(50% - var(--nav-width) / 2 - var(--gap) / 2.1);
     z-index: 999;
     line-height: var(--header-height);
 }
 
 .first-entry {
     min-height: auto;
-    margin: var(--gap) 0;
+    margin: var(--gap) 0 calc(var(--gap) * 2.45) 0;
 }
 
 #menu {
     margin-left: auto;
+}
+
+.social-icons a:first-child {
+    padding-left: 0;
 }
 
 .logo-separator {
