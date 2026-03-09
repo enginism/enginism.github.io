@@ -3,7 +3,7 @@ title: "About"
 hidemeta: true
 ---
 
-Hi, I'm JongBum Won. I dream of exploring another world.  
+Hi, I'm JB (JongBum) Won. I dream of exploring another world.  
 This blog started in March 2026 to share my learning notes towards full-dive VR.  
   
 I focus on Neuroscience & AI since it requires:
