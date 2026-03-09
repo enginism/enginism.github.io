@@ -15,8 +15,8 @@ minify:
 params:
   env: production
   title: JB Won
-  description: "CS @ SNU | 3D Vision & Motion Generation"
-  keywords: [Blog, Portfolio, CS, 3D Vision]
+  description: "Towards full-dive VR, learning notes on neuroscience & AI"
+  keywords: [Blog, Portfolio, full-dive VR, VR, Neuroscience, AI, AR, sensory system]
   author: JB Won
   defaultTheme: auto
   disableThemeToggle: false
@@ -33,8 +33,8 @@ params:
   comments: false
 
   homeInfoParams:
-    Title: "👋 Hi, this is Jongbum Won"
-    Content: "CS @ SNU | 3D Vision & Motion GenerationCS @ SNU | 3D Vision & Motion GenerationCS @ SNU | 3D Vision & Motion GenerationCS @ SNU | 3D Vision & Motion Generation"
+    Title: "👋 Hi, this is JB Won"
+    Content: "I'm a senior @ Seoul National University CS.\\\nRecently, I decided to dedicate the rest of my life to full-dive VR."
 
   socialIcons:
     - name: x
