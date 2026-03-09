@@ -4,7 +4,7 @@ hidemeta: true
 ---
 
 Hi, I'm JB (JongBum) Won.  
-I dream of exploring another world (AKA full-dive VR).  
+I dream of exploring another world via full-dive VR.  
 
 So now I focus on neuroscience & AI since it requires:
 1. Writing (simulated) sensory input to the brain.
