@@ -19,11 +19,17 @@ minify:
 params:
   env: production
   title: JB Won
-  description: "Towards full-dive VR, learning notes on neuroscience & AI"
+  description: "Towards full-dive VR. Learning notes on neuroscience & AI"
   keywords: [Blog, Portfolio, full-dive VR, VR, Neuroscience, AI, AR, sensory system]
   author: JB Won
   defaultTheme: auto
   disableThemeToggle: false
+
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-icon-180x180.png"
 
   mainSections: ["posts", "review"]
   ShowReadingTime: true
