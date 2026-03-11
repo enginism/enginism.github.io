@@ -1,0 +1,7 @@
+<a href="{{ .Get "link" }}" class="project-card" target="_blank" rel="noopener">
+  <img src="{{ .Get "image" | default "/images/placeholder.png" }}" alt="{{ .Get "title" }}">
+  <div class="project-card-info">
+    <strong>{{ .Get "title" }}</strong>
+    <span>{{ .Get "description" }}</span>
+  </div>
+</a>

@@ -31,3 +31,78 @@ body * {
     font-weight: 400;
     margin-left: 4px;
 }
+
+/* Project cards */
+.project-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 8px;
+}
+
+.project-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 0px 17px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--entry);
+    color: var(--primary);
+    text-decoration: none;
+    transition: box-shadow 0.2s;
+}
+
+.project-card:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+}
+
+.project-card-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.project-card-info strong {
+    font-size: 1rem;
+}
+
+.project-card-info span {
+    font-size: 0.875rem;
+    color: var(--secondary);
+}
+
+@media (max-width: 768px) {
+    .project-cards {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 12px;
+    }
+
+    .project-card {
+        flex-direction: column;
+        align-items: stretch;
+        width: calc(50% - 6px);
+        padding: 0;
+        overflow: hidden;
+    }
+
+    .project-card img {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 1 / 1;
+        border-radius: 0;
+    }
+
+    .project-card-info {
+        padding: 10px 12px;
+    }
+}
