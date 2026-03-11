@@ -21,6 +21,7 @@ params:
   title: JB Won
   description: "Towards full-dive VR. Learning notes on neuroscience & AI"
   ogDescription: "Towards full-dive VR."
+  images: ["/og-image.png"]
   keywords: [Blog, Portfolio, full-dive VR, VR, Neuroscience, AI, AR, sensory system]
   author: JB Won
   defaultTheme: auto
