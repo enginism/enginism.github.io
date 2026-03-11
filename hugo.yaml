@@ -3,6 +3,10 @@ title: JB Won
 paginate: 5
 theme: PaperMod
 
+services:
+  googleAnalytics:
+    ID: G-28TRX1QHRQ
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -43,6 +47,8 @@ params:
       url: "https://github.com/enginism"
     - name: email
       url: "mailto:jim8697@snu.ac.kr"
+    - name: rss
+      url: "/index.xml"
 
   fuseOpts:
     isCaseSensitive: false
