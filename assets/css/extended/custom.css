@@ -32,6 +32,47 @@ body * {
     margin-left: 4px;
 }
 
+/* About intro */
+.about-intro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 16px;
+}
+
+.about-intro-text {
+    flex: 1;
+}
+
+.about-intro-text p {
+    margin: 0 0 0.5em 0;
+}
+
+.about-intro-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+}
+
+@media (max-width: 768px) {
+    .about-intro {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .about-intro-photo {
+        align-self: center;
+    }
+
+    .about-intro-photo {
+        width: 130px;
+        height: 130px;
+    }
+}
+
 /* Project cards */
 .project-cards {
     display: flex;

@@ -103,6 +103,9 @@ outputs:
     - JSON
 
 markup:
+  goldmark:
+    extensions:
+      linkify: false
   highlight:
     noClasses: false
 

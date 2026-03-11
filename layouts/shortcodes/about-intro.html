@@ -1,0 +1,6 @@
+<div class="about-intro">
+  <img class="about-intro-photo" src="{{ .Get "photo" }}" alt="{{ .Get "alt" | default "Profile photo" }}">
+  <div class="about-intro-text">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
