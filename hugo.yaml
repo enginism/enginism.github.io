@@ -22,7 +22,7 @@ params:
   description: "Towards full-dive VR, learning notes on neuroscience & AI"
   keywords: [Blog, Portfolio, full-dive VR, VR, Neuroscience, AI, AR, sensory system]
   author: JB Won
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
 
   mainSections: ["posts", "review"]
