@@ -32,6 +32,15 @@ body * {
     margin-left: 4px;
 }
 
+/* About page background - light mode only */
+:root body:has(.about-intro) {
+    background: rgb(245, 245, 245);
+}
+
+[data-theme="dark"] body:has(.about-intro) {
+    background: var(--theme);
+}
+
 /* About intro */
 .about-intro {
     display: flex;
