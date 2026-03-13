@@ -15,7 +15,7 @@ This requires two breakthroughs:
 1\. Decoding motor commands to control a virtual body.   
 2\. Writing (simulated) sensory input to the brain.
 
-So now I'm pouring my time into the intersection of neuroscience & AI.   
+So now I'm pouring myself into the intersection of neuroscience & AI.   
 
 ---
 These are some projects I've done before.
