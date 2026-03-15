@@ -32,6 +32,11 @@ body * {
     margin-left: 4px;
 }
 
+/* Home info links */
+.home-info .entry-content a {
+    color: #6192fe;
+}
+
 /* About page background - light mode only */
 :root body:has(.about-intro) {
     background: rgb(245, 245, 245);

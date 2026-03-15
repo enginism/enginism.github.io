@@ -1,7 +1,7 @@
 ---
-title: '{{ replace .File.ContentBaseName "-" " " }}'
-date: '{{ dateFormat "2006-01-02" .Date }}'
-draft: true
+title: 'I decided to dedicate the rest of my life to full-dive VR'
+date: '2026-03-15'
+draft: false
 tags: ["temp1", "temp2", "temp3"]
 summary: "A dummy post for template."
 description: ""
@@ -12,3 +12,5 @@ cover:
   alt: ""
   caption: ""
 ---
+
+Writing...

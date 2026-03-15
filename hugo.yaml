@@ -46,7 +46,7 @@ params:
 
   homeInfoParams:
     Title: "👋 Hi, this is JB Won"
-    Content: "I'm a senior @ Seoul National University CS.\\\nRecently, I decided to dedicate the rest of my life to full-dive VR."
+    Content: "I'm a senior @ Seoul National University CS.\\\nRecently, [I decided to dedicate the rest of my life to full-dive VR](/posts/why-full-dive-vr/)."
 
   socialIcons:
     - name: x

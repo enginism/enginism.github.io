@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2026-02-28
-draft: false
+draft: true
 tags: ["test", "hugo", "demo"]
 summary: "A dummy post to test tags and search functionality."
 ---
