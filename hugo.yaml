@@ -20,7 +20,7 @@ params:
   env: production
   title: JB Won
   description: "Towards full-dive VR. Learning notes on neuroscience & AI"
-  ogDescription: "Towards full-dive VR."
+  ogDescription: "Learning notes towards full-dive VR."
   images: ["/og-image.jpg"]
   keywords: [Blog, Portfolio, full-dive VR, VR, Neuroscience, AI, AR, sensory system]
   author: JB Won
