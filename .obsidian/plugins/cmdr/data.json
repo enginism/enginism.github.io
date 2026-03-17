@@ -1,0 +1,44 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-shellcommands:shell-command-37rbx4tc6m",
+      "icon": "lucide-pencil-line",
+      "name": "Shell commands: Execute: New Post",
+      "mode": "any",
+      "color": "#0000ff"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-3tcyjobzz5",
+      "icon": "lucide-scan-search",
+      "name": "Shell commands: Execute: New Review",
+      "mode": "any",
+      "color": "#ff0000"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "13",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

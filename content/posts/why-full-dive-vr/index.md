@@ -1,0 +1,18 @@
+---
+title: I decided to dedicate the rest of my life to full-dive VR
+date: 2026-03-17
+draft: false
+tags:
+  - temp1
+  - temp2
+  - temp3
+summary: Writing...
+description: ""
+keywords: []
+ShowToc: false
+cover:
+  image: ""
+  alt: ""
+  caption: ""
+---
+Writing...

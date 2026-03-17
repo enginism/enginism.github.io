@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d459914215fe4e3e",
+        "id": "560307741434adf8",
         "type": "tabs",
         "children": [
           {
-            "id": "9673a382f6648bfb",
+            "id": "4866f86759f8109d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/why-full-dive-vr/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "index"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cf6f745bb6a51221",
@@ -150,32 +154,67 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/posts/why-full-dive-vr/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "index 의 개요"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
+      "canvas:새 캔버스 만들기": true,
+      "daily-notes:오늘의 일일 노트 열기": true,
+      "templates:템플릿 삽입": true,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": true,
+      "obsidian-shellcommands:Shell commands: Custom variables": true,
+      "cmdr:Shell commands: Execute: New Post": false,
+      "cmdr:Shell commands: Execute: New Review": false
     }
   },
-  "active": "9673a382f6648bfb",
-  "lastOpenFiles": []
+  "active": "4866f86759f8109d",
+  "lastOpenFiles": [
+    "content/review/_index.md",
+    "content/review/fdsa/index.md",
+    "content/review/fdsa",
+    "content/review/skflda-dfsaf/index.md",
+    "content/review/skflda-dfsaf",
+    "content/posts/kakao-is-real/index.md",
+    "content/posts/why-full-dive-vr/index.md",
+    "content/posts/kakao-is-real",
+    "content/posts/{{prompt:sluginput:slug}}/index.md",
+    "content/posts/{{prompt:sluginput:slug}}",
+    "CLAUDE.md",
+    "무제",
+    "무제.canvas",
+    "2026-03-17.md",
+    "content/review/{{prompt}}/index.md",
+    "content/review/{{prompt}}",
+    "content/posts/{{prompt}}/index.md",
+    "content/posts/{{prompt}}",
+    "content/posts/{{value}}/index.md",
+    "content/posts/{{value}}",
+    "무제.base",
+    "content/posts/why-full-dive-vr/IMG_3444.jpg",
+    "content/posts/why-full-dive-vr/IMG_3444 1.jpg",
+    "public/posts/why-full-dive-vr/IMG_3444 1.jpg",
+    "public/posts/why-full-dive-vr/IMG_3444.jpg",
+    "content/about.md",
+    "public/review/paper-title/index.html",
+    "content/review/paper-title/index.md",
+    "content/posts/test-test/index.md",
+    "content/posts/why-full-dive-vr/why-full-dive-vr.md"
+  ]
 }
