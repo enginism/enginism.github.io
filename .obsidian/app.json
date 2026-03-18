@@ -5,5 +5,7 @@
   "attachmentFolderPath": "./",
   "promptDelete": false,
   "livePreview": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }

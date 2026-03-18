@@ -21,7 +21,7 @@ So now I'm pouring myself into the intersection of neuroscience & AI.
 These are some projects I've done before.
 {{< project-cards >}}
 {{< project-card title="[ Ray Tracing renderer ]" description="Built Path-Tracing renderer from scratch w/o any graphics library." image="/images/projects/ray_tracer.jpg" link="https://github.com/enginism/Path-Tracing__ray-tracer" >}}
-{{< project-card title="[ EIP-6884 ]" description="Co-authored Ethereum standard for NFT utility delegation." image="/images/projects/ethereum.jpg" link="https://eip.tools/eip/6884" >}}
+{{< project-card title="[ ERC-6884 ]" description="Co-authored Ethereum standard for NFT utility delegation." image="/images/projects/ethereum.jpg" link="https://eip.tools/eip/6884" >}}
 {{< /project-cards >}}
 
 ---

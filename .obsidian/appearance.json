@@ -2,5 +2,9 @@
   "theme": "moonstone",
   "interfaceFontFamily": "Source Sans 3",
   "textFontFamily": "Source Sans 3",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "showRibbon": false,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
 }

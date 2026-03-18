@@ -1,4 +1,6 @@
 [
   "obsidian-shellcommands",
-  "cmdr"
+  "cmdr",
+  "image-converter",
+  "obsidian-paste-image-rename"
 ]
