@@ -91,7 +91,7 @@
     {
       "name": "WEBP for jbwon.com",
       "outputFormat": "WEBP",
-      "quality": 90,
+      "quality": 80,
       "colorDepth": 1,
       "resizeMode": "Width",
       "desiredWidth": 1200,
