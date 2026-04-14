@@ -17,7 +17,8 @@ I believe it requires two breakthroughs:
 
 \+ Also, understanding how we process sensory input can accelerate these.
     
-So now I'm pouring myself into the intersection of neuroscience & AI.   
+<!-- So now I'm pouring myself into the intersection of neuroscience & AI.    -->
+So now I'm pouring myself into the intersection of those things.  
 
 ---
 These are some projects I've done before.
