@@ -11,12 +11,12 @@ CS undergrad @ Seoul National University.
 
 {{< /about-intro >}}
 
-This requires these breakthroughs:   
-1\. Decoding motor commands to control a virtual body.   
-2\. Writing (simulated) sensory input to the brain.   
+I believe it requires two breakthroughs:   
+**1\.** Decoding motor commands to control a virtual body.   
+**2\.** Writing (simulated) sensory input to the brain.   
 
-\+ Also, understanding how we process sensory information can accelerate these breakthroughs. 
-
+\+ Also, understanding how we process sensory input can help these.
+    
 So now I'm pouring myself into the intersection of neuroscience & AI.   
 
 ---
