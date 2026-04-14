@@ -15,7 +15,7 @@ I believe it requires two breakthroughs:
 **1\.** Decoding motor commands to control a virtual body.   
 **2\.** Writing (simulated) sensory input to the brain.   
 
-\+ Also, understanding how we process sensory input can help these.
+\+ Also, understanding how we process sensory input can accelerate these.
     
 So now I'm pouring myself into the intersection of neuroscience & AI.   
 
